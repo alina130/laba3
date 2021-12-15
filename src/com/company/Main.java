@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 public class Main {
     /**
-     *Метод высчитывания времени
+     *Метод высчитывания времен
      * @param args агрумент командной строки
      */
     public static void main(String[] args) {
